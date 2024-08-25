@@ -58,7 +58,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "<b>ʜᴇʟʟᴏ {first}\n\n<u>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs</u>\nᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ- <a href=https://t.me/AvengerNews>ᴀᴠᴇɴɢᴇʀ ɴᴇᴡs</a></b>"
+USER_REPLY_TEXT = "<b>ʜᴇʟʟᴏ ᴜsᴇʀ\n\n<u>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs</u>-> @Red_Wine_Op\n-> @AvengerNews\n-> @Movies_Bull\n-> @Kalakar_Sangram\n-> @AvengerOwner</b>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(5191566338)
